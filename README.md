@@ -17,7 +17,6 @@ Currently expanding my expertise in **blockchain** and **software development**,
 - **Photographer & Graphics Designer**: Crafting visual stories and digital experiences.
 - **Smart Contract Developer-in-training**: Exploring the world of **Solidity** and decentralized applications.
 - **Full Stack Developer-in-training**: Building web apps with **Python, JavaScript, Node.js, React**, and more.
-- **Community Moderator**: Managing a large crypto community, real-time content updates, and engagement.
 
 ---
 
@@ -43,7 +42,6 @@ Currently expanding my expertise in **blockchain** and **software development**,
 
 ## ✨ Fun Facts & Interests
 
-- I moderate a large crypto community, managing real-time content and engagement—thriving in fast-paced, high-pressure environments!
 - Passionate about photography: capturing everyday life and nature, always looking for the perfect shot.
 - Interested in how **blockchain** and **AI** can reshape learning and creativity, especially for young people in Africa.
 - Building tools and platforms that make knowledge accessible.
