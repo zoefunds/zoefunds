@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Precious Adebiyi (zoefunds)
+# 👋 Hi, I'm Precious Adebiyi
 
-![Photography Banner](https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=1350&q=80
-)
+![Photography Banner](https://pbs.twimg.com/profile_images/1852450740284870656/nuzz2a9v_400x400.jpg)
 
 ---
 
