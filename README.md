@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Precious Adebiyi
 
-![Photography Banner](https://pbs.twimg.com/profile_images/1852450740284870656/nuzz2a9v_400x400.jpg)
+![Photography Banner](https://pbs.twimg.com/profile_images/2043659553120903168/Tmk6FSrz.jpg)
 
 ---
 
